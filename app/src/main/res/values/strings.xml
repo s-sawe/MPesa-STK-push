@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="enter_the_number_to_get_stk_push">Enter the number to get Stk Push</string>
+    <string name="pay">Pay</string>
+</resources>
